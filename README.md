@@ -1,4 +1,4 @@
 # Github-demo-practice
 This is my first git Repository.
 <br>
-Author - Akshay anand 
+Author - Akshay Anand and Anurag Anand 
